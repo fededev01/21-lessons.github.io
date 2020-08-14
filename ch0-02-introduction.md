@@ -15,38 +15,29 @@ di gran lunga troppo numerose per rispondere rapidamente o addirittura per farlo
 Le cose che ho imparato sono, ovviamente, riguardanti il Bitcoin - o almeno relative ad 
 esso. Comunque, mentre qualcosa dei meccanismi interni sono spiegati, le 
 presenti lezioni non sono una spiegazione di come il Bitcoin funziona o che cosa sia,
-they might, however, help to explore some of the things Bitcoin touches:
-potrebbero, comunque, aiutare ad esplorare alcune delle cose che il Bitcoin lambisce:
+potrebbero, comunque, aiutare ad esplorare alcune delle cose che il Bitcoin si limita a sfiorare:
 questioni filosofiche, realtà economiche, e innovazioni tecnologiche.
 
-The 21 lessons are structured in bundles of seven, resulting in three chapters.
 Le 21 lezioni sono strutturate in gruppi di sette, risultanti in tre capitoli.
-Each chapter looks at Bitcoin through a different lens, extracting what
 Ogni capitolo guarda al Bitcoin attraverso lenti diverse, che estraggono
 quali lezioni possono essere apprese ispezionando questa strana rete da un angolo 
 diverso.
 
 [Il capitolo 1][chapter1] esplora gli insegnamenti filosofici del Bitcoin. 
 l'interazione tra immutabilità e cambiamento, il concetto di autentica scarsità,
-immaculate conception, the problem of identity, the contradiction of replication
 l'immacolata concezione, il problema dell'identità, la contraddizione della replicazione 
 e della localizzazione, il potere della libertà di parola e i limiti della conoscenza.
 
-[Chapter 2][chapter2] explores the economic teachings of Bitcoin. Lessons about
 [Il capitolo 2][chapter2] esplora gli insegnamenti economici del Bitcoin. Lezioni 
 sull'ignoranza finanziaria, inflazione, valore, la moneta e la sua storia, la riserva 
 frazionaria bancaria, e come il Bitcoin sta reintroducendo la moneta solida in un modo 
 furbo e rotondo.
 
 [Il capitolo 3][chapter3] esplora alcune delle lezioni imparate osservando la
-technology of Bitcoin.  Why there is strength in numbers, reflections on trust,
 tecnologia del Bitcoin. Perché c'è forza nei numeri, riflessioni sulla fiducia,
-why telling time takes work, how moving slowly and not breaking things is a
 perché indicare l'ora necessita lavoro, come muoversi lenti e non rompere cose è una
-feature and not a bug, what Bitcoin's creation can tell us about privacy, why
-caratteristica non un errore, perché 
-i cypherpunks scrivono codici (non leggi), e che le metafore possono essere utili per
-esplorare il futuro del Bitcoin.
+caratteristica non un errore, perché i cypherpunks scrivono codice (e non leggi), 
+e che le metafore possono essere utili per esplorare il futuro del Bitcoin.
 
 Ciascuna lezione contiene varie citazioni e links lungo tutto il testo. Se vuoi 
 esplorare un'idea in maggiore dettaglio, puoi trovare dei collegamenti ai miei lavori collegati
