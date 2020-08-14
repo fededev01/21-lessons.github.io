@@ -1,33 +1,36 @@
 ---
 layout: lesson
 title: Introduction
-quote: "\"But I don’t want to go among mad people,\" Alice remarked.</br> \"Oh, you can’t help that,\" said the Cat: \"we’re all mad here. I’m mad. You’re mad.\"</br> \"How do you know I’m mad?\" said Alice.</br> \"You must be,\" said the Cat, \"or you wouldn’t have come here.\"</br>"
+quote: "\"Ma non voglio andare in mezzo ai pazzi,\" disse Alice.</br> \"Oh, non puoi evitarlo,\" disse il Gatto: \"Siamo tutti pazzi qui. Io sono pazzo. Tu sei pazza.\"</br> \"Come sai che sono pazza?\" disse Alice.</br> \"Devi esserlo,\" disse il Gatto, \"o non saresti arrivata qui.\"</br>"
 audio: /assets/audio/21lessons/0-02.m4a
 permalink: intro
 order: ch0-02
 toc: true
 ---
 
-In October 2018, Arjun Balaji asked the innocuous question, [*What have you
-learned from Bitcoin?*][this question] After trying to answer this question in a
-short tweet, and failing miserably, I realized that the things I've learned are
-far too numerous to answer quickly, if at all.
+Nell'Ottobre del 2018, Arjun Balaji fece l'innocua domanda, [*Cosa hai imparato dal Bitcoin?*][this question] 
+Dopo aver cercato di rispondere a questa domanda con un breve tweet, e aver vergognosamente fallito, ho capito che le cose che ho imparato erano 
+di gran lunga troppo numerose per rispondere rapidamente o addirittura per farlo.
 
-The things I've learned are, obviously, about Bitcoin - or at least related to
-it. However, while some of the inner workings of Bitcoin are explained, the
-following lessons are not an explanation of how Bitcoin works or what it is,
+Le cose che ho imparato sono, ovviamente, riguardanti il Bitcoin - o almeno relative ad 
+esso. Comunque, mentre qualcosa dei meccanismi interni sono spiegati, le 
+presenti lezioni non sono una spiegazione di come il Bitcoin funziona o che cosa sia,
 they might, however, help to explore some of the things Bitcoin touches:
-philosophical questions, economic realities, and technological innovations.
+potrebbero, comunque, aiutare ad esplorare alcune delle cose che il Bitcoin lambisce:
+questioni filosofiche, realtà economiche, e innovazioni tecnologiche.
 
 The 21 lessons are structured in bundles of seven, resulting in three chapters.
+Le 21 lezioni sono strutturate in gruppi di sette, risultanti in tre capitoli.
 Each chapter looks at Bitcoin through a different lens, extracting what
-lessons can be learned by inspecting this strange network from a different
-angle.
+Ogni capitolo guarda al Bitcoin attraverso lenti diverse, che estraggono
+quali lezioni possono essere apprese ispezionando questa strana rete da un angolo 
+diverso.
 
-[Chapter 1][chapter1] explores the philosophical teachings of Bitcoin. The
-interplay of immutability and change, the concept of true scarcity, Bitcoin's
+[Il capitolo 1][chapter1] esplora gli insegnamenti filosofici del Bitcoin. 
+l'interazione tra immutabilità e cambiamento, il concetto di autentica scarsità,
 immaculate conception, the problem of identity, the contradiction of replication
-and locality, the power of free speech, and the limits of knowledge.
+l'immacolata concezione, il problema dell'identità, la contraddizione della replicazione 
+e della localizzazione, il potere della libertà di parola e i limiti della conoscenza.
 
 [Chapter 2][chapter2] explores the economic teachings of Bitcoin. Lessons about
 financial ignorance, inflation, value, money and the history of money,
