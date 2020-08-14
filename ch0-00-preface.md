@@ -1,32 +1,36 @@
 ---
-layout: lesson
-title: Preface
-quote: "Little Alice fell <br/> d <br/> o <br/> w <br/> n <br/> the hOle, <br/> bumped her head <br/> and bruised her soul."
+layout: lezione
+title: Prefazione
+quote: "La piccola Alice <br/> g <br/> i <br/> ù <br/>  per il buco, <br/> battè la testa <br/>  e si ferì."
 audio: /assets/audio/21lessons/0-00.m4a
 permalink: preface
 order: ch0-00
 toc: true
 ---
 
-Falling down the Bitcoin rabbit hole is a strange experience. Like many others,
-I feel like I have learned more in the last couple of years studying Bitcoin
-than I have during two decades of formal education.
+Cadere dentro alla tana del coniglio del Bitcoin è un'esperienza strana. Come molti altri,
+sento di aver imparato di più negli unltimi due anni studiando Bitcoin
+di quanto non abbia imparato nel corso di due decenni di educazione scolastica.
 
-The following lessons are a distillation of what I’ve learned. First published
-as an article series titled [“What I’ve Learned From Bitcoin,”][I] what follows
-can be seen as a second edition of the original series.
+Le presenti lezioni sono un distillato di ciò che ho imparato. Pubblicate inizialmente
+come una serie di articoli intitolati ["What I’ve Learned From Bitcoin,”][I] ciò che segue
+può essere vista come una seconda edizione della serie originale.
 
-Like Bitcoin, these lessons aren't a static thing. I plan to work on them
-periodically, releasing updated versions and additional material in the future.
+Come il Bitcoin, queste lezioni non sono un qualcosa di statico. Mi riprometto di lavorare su di esse 
+periodicamente, rilasciando versioni aggiornate e materiale addizionale in futuro.
 
-Unlike Bitcoin, future versions of this project do not have to be backward
-compatible. Some lessons might be extended, others might be reworked or
+Diversamente dal Bitcoin, le future versioni di questo progetto non sono compatibili a 
+ritroso. Qualche lezione potrebbe essere estesa, altre potrebbero essere revocate o 
+
 replaced. I hope that a future version will be something you can hold in your
-hands, but I don’t want to promise anything just yet.
+rimpiazzate. Spero che una versione futura sia un qualcosa che puoi tenere 
+in mano, ma non voglio promettere niente per il momento.
 
 Bitcoin is an inexhaustible teacher, which is why I do not claim that these
-lessons are all-encompassing or complete. They are a reflection of my personal
+Bitcoin è un insegnante inestancabile, ragione per la quale non mi sento di dichiarare 
+che queste lezioni siano onni-comprensive o complete. 
 journey down the rabbit hole. There are many more lessons to be learned, and
+
 every person will learn something different from entering the world of Bitcoin.
 
 I hope that you will find these lessons useful and that the process of learning
