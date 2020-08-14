@@ -1,7 +1,7 @@
 ---
 layout: lesson
-title: Table of Contents
-quote: "\"Would you tell me, please, which way I ought to go from here?\"<br/> \"That depends a good deal on where you want to get to.\"<br/> \"I don't much care where –\"<br/> \"Then it doesn't matter which way you go.\""
+title: Indice dei contenuti
+quote: "\"Mi potresti dire, per cortesia, che strada devo prendere da qui?\"<br/> \"Questo dipende molto da dove vuoi andare.\"<br/> \"Non mi importa molto dove –\"<br/> \"E allora non importa molto che strada prendi.\""
 audio: /assets/audio/21lessons/0-01.m4a
 permalink: toc
 order: ch0-01
