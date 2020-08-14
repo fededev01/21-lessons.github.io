@@ -28,13 +28,14 @@ in mano, ma non voglio promettere niente per il momento.
 
 Bitcoin is an inexhaustible teacher, which is why I do not claim that these
 Bitcoin è un insegnante inestancabile, ragione per la quale non mi sento di dichiarare 
-che queste lezioni siano onni-comprensive o complete. 
-journey down the rabbit hole. There are many more lessons to be learned, and
+che queste lezioni siano onni-comprensive o complete. Sono il riflesso del mio 
+viaggio dentro la tana del coniglio. Ci sono molte lezioni da imparare
 
-every person will learn something different from entering the world of Bitcoin.
+e ogni persona imparerà qualcosa di diverso dall'introduzione al mondo del Bitcoin.
 
 I hope that you will find these lessons useful and that the process of learning
-them by reading won’t be as arduous and painful as learning them firsthand.
+Spero che troverete queste lezioni utili e che il processo di apprendimento
+attraverso la lettura non sarà così arduo e doloroso come l'apprendimento da zero.
 
 [Gigi][dergigi]
 
