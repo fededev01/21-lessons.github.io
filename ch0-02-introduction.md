@@ -58,7 +58,7 @@ Anche se qualche conoscenza preesistente sul Bitcoin è di aiuto, spero che ques
 lezioni possano essere digerite da qualsiasi lettore curioso. Mentre alcune sono in 
 in relazione con altre, ciascuna lezione dovrebbe avere l'abilità di essere autonoma e di poter 
 essere letta in maniera indipendente. 
-ho fatto del mio meglio per rifuggire il gergo tecnico, anche se alcuni termini tipici del 
+Ho fatto del mio meglio per rifuggire il gergo tecnico, anche se alcuni termini tipici del 
 dominio linguistico sono inevitabili.
 
 
@@ -67,13 +67,11 @@ superficie ed esaminare alcune delle domande più profonde che il Bitcoin sollev
 personale ispirazione è giunta da una moltitudine di autori e creatori di contenuto ai quali
 sono eternamente grato.
 
-Last but not least: my goal in writing this is not to convince you of anything.
 Ultimo ma non ultimo: il mio fine nello scrivere questo non è di convincervi di alcunché.
 Il mio scopo è semmai quello di farvi pensare, e di mostrarvi che c'è molto di più nel Bitcoin 
-di ciò che appare a prima vista. Non posso neanche dirvi cosa Bitcoin sia o cosa Bitcoin vi 
+di ciò che appaia a prima vista. Non posso neanche dirvi cosa Bitcoin sia o cosa Bitcoin vi 
 insegnerà. Dovrete scoprirlo da soli.
 
-> "After this, there is no turning back. You take the blue pill --- the
 > "Arrivati qui, non c'è via di ritorno. Prendi la pillola blu --- la 
 > storia finisce, ti svegli nel letto e credi tutto ciò che vuoi 
 > credere. Prendi la pillola rossa --- e resti nel paese delle meraviglie, e 
