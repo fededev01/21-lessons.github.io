@@ -33,43 +33,51 @@ l'immacolata concezione, il problema dell'identità, la contraddizione della rep
 e della localizzazione, il potere della libertà di parola e i limiti della conoscenza.
 
 [Chapter 2][chapter2] explores the economic teachings of Bitcoin. Lessons about
-financial ignorance, inflation, value, money and the history of money,
-fractional reserve banking, and how Bitcoin is re-introducing sound money in a
-sly, roundabout way.
+[Il capitolo 2][chapter2] esplora gli insegnamenti economici del Bitcoin. Lezioni 
+sull'ignoranza finanziaria, inflazione, valore, la moneta e la sua storia, la riserva 
+frazionaria bancaria, e come il Bitcoin sta reintroducendo la moneta solida in un modo 
+furbo e rotondo.
 
-[Chapter 3][chapter3] explores some of the lessons learned by examining the
+[Il capitolo 3][chapter3] esplora alcune delle lezioni imparate osservando la
 technology of Bitcoin.  Why there is strength in numbers, reflections on trust,
+tecnologia del Bitcoin. Perché c'è forza nei numeri, riflessioni sulla fiducia,
 why telling time takes work, how moving slowly and not breaking things is a
+perché indicare l'ora necessita lavoro, come muoversi lenti e non rompere cose è una
 feature and not a bug, what Bitcoin's creation can tell us about privacy, why
-cypherpunks write code (and not laws), and what metaphors might be useful to
-explore Bitcoin's future.
+caratteristica non un errore, perché 
+i cypherpunks scrivono codici (non leggi), e che le metafore possono essere utili per
+esplorare il futuro del Bitcoin.
 
-Each lesson contains several quotes and links throughout the text. If I have
-explored an idea in more detail, you can find links to my related works in the
-"Through the Looking-Glass" section. If you like to go deeper, links to the most
-relevant material are listed in the "Down the Rabbit Hole" section. Both can be
-found at the end of each lesson.
+Ciascuna lezione contiene varie citazioni e links lungo tutto il testo. Se vuoi 
+esplorare un'idea in maggiore dettaglio, puoi trovare dei collegamenti ai miei lavori collegati
+Nella sezione "Through the Looking-Glass". Se vuoi andare ancora più a fondo, collegamenti 
+ai materiali più rilevanti sono elencati nella sezione "Down the Rabbit Hole".
+Entrambe possono essere trovate alla fine di ogni lezione.
 
-Even though some prior knowledge about Bitcoin is beneficial, I hope that these
-lessons can be digested by any curious reader. While some relate to each other,
-each lesson should be able to stand on its own and can be read independently. I
-did my best to shy away from technical jargon, even though some domain-specific
-vocabulary is unavoidable.
+Anche se qualche conoscenza preesistente sul Bitcoin è di aiuto, spero che queste
+lezioni possano essere digerite da qualsiasi lettore curioso. Mentre alcune sono in 
+in relazione con altre, ciascuna lezione dovrebbe avere l'abilità di essere autonoma e di poter 
+essere letta in maniera indipendente. 
+ho fatto del mio meglio per rifuggire il gergo tecnico, anche se alcuni termini tipici del 
+dominio linguistico sono inevitabili.
 
-I hope that my writing serves as inspiration for others to dig beneath the
-surface and examine some of the deeper questions Bitcoin raises. My own
-inspiration came from a multitude of authors and content creators to all of whom
-I am eternally grateful.
+
+Spero che il mio scritto serva come ispirazione per altri per scavare sotto la 
+superficie ed esaminare alcune delle domande più profonde che il Bitcoin solleva. La mia 
+personale ispirazione è giunta da una moltitudine di autori e creatori di contenuto ai quali
+sono eternamente grato.
 
 Last but not least: my goal in writing this is not to convince you of anything.
-My goal is to make you think, and show you that there is way more to Bitcoin
-than meets the eye. I can’t even tell you what Bitcoin is or what Bitcoin will
-teach you. You will have to find that out for yourself.
+Ultimo ma non ultimo: il mio fine nello scrivere questo non è di convincervi di alcunché.
+Il mio scopo è semmai quello di farvi pensare, e di mostrarvi che c'è molto di più nel Bitcoin 
+di ciò che appare a prima vista. Non posso neanche dirvi cosa Bitcoin sia o cosa Bitcoin vi 
+insegnerà. Dovrete scoprirlo da soli.
 
 > "After this, there is no turning back. You take the blue pill --- the
-> story ends, you wake up in your bed and believe whatever you want to
-> believe. You take the red pill --- you stay in Wonderland, and I show
-> you how deep the rabbit hole goes."
+> "Arrivati qui, non c'è via di ritorno. Prendi la pillola blu --- la 
+> storia finisce, ti svegli nel letto e credi tutto ciò che vuoi 
+> credere. Prendi la pillola rossa --- e resti nel paese delle meraviglie, e 
+> ti mostrerò quanto è profonda la tana del bianconiglio."
 > <cite>[Morpheus][Morpheus]</cite>
 
 {% include image.html path="./assets/images/bitcoin-orange-pill.jpg" %}
