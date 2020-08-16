@@ -2,28 +2,29 @@
 layout: lesson
 title: Chapter II
 subtitle: Economics
-quote: "A large rose tree stood near the entrance of the garden: the roses on it were white, but there were three gardeners at it, busily painting them red. This Alice thought a very curious thing..."
+quote: "Un ampio roseto si trovava all'entrata del giardino: le rose in esso erano bianche, ma c'erano tre giardinieri, intenti a verniciarle di rosso. Ad Alice parve molto strano..."
 audio: /assets/audio/21lessons/2-00.m4a
 permalink: economics
 order: ch2-00
 toc: true
 ---
 
-Money doesn’t grow on trees. To believe that it does is foolish, and our
-parents make sure that we know about that by repeating this saying like a
-mantra. We are encouraged to use money wisely, to not spend it frivolously,
-and to save it in good times to help us through the bad. Money, after all,
-does not grow on trees.
+I soldi non crescono sugli alberi. Crederlo è molto stupido e i nostri
+genitori si sono assicurati che lo imparassimo ripetendo questa frase come un
+mantra. Siamo stati incoraggiati ad utilizzare i soldi in maniera saggia, a non spenderli in modo frivolo,
+e a risparmiare in tempi di prosperità per aiutarci nella malasorte. I soldi, dopo tutto,
+non crescono sugli alberi.
 
-Bitcoin taught me more about money than I ever thought I would need to know.
-Through it, I was forced to explore the history of money, banking, various
-schools of economic thought, and many other things. The quest to understand
-Bitcoin lead me down a plethora of paths, some of which I try to explore in
-this series.
+Bitcoin mi ha insegnato sui soldi più di quanto ho mai pensato di avere bisogno di sapere.
+Attraverso di esso, sono stato costretto ad esplorare la storia della moneta, delle banche, varie
+scuole di pensiero sull'economia, e molte altre cose. Il bisogno di capire il
+Bitcoin mi ha portato su una pletora di percorsi esplorativi, alcuni dei quali provo ad esplrare in 
+queste serie.
 
-In the first seven lessons some of the philosophical questions Bitcoin touches
+Nelle prime sette lezioni alcune delle domande filosofiche che il Bitcoin tocca sono
 on were discussed. The next seven lessons will take a closer look at money and
-economics.
+state discusse. Le prossime sette lezioni si occuperanno maggiormente dei soldi e 
+delle questioni economiche.
 
 {% include lesson-list.html chapter="2"%}
 
