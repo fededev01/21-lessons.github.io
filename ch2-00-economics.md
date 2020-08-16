@@ -22,19 +22,19 @@ Bitcoin mi ha portato su una pletora di percorsi esplorativi, alcuni dei quali p
 queste serie.
 
 Nelle prime sette lezioni alcune delle domande filosofiche che il Bitcoin tocca sono
-on were discussed. The next seven lessons will take a closer look at money and
 state discusse. Le prossime sette lezioni si occuperanno maggiormente dei soldi e 
 delle questioni economiche.
 
 {% include lesson-list.html chapter="2"%}
 
-Again, I will only be able to scratch the surface. Bitcoin is not only
-ambitious, but also broad and deep in scope, making it impossible to cover all
-relevant topics in a single lesson, essay, article, or book. I  doubt if it is
-even possible at all.
+Di nuovo, sarò in grado solo di graffiare la superficie. Bitcoin non è solo 
+ambizioso, ma anche di portata ampia e profonda, rendendo impossibile coprire tutti
+gli argomenti rilevanti in una sola lezione, in un saggio, in un articolo o in un libro.
+Non credo sia mai possibile.  
 
-Bitcoin is a new form of money, which makes learning about economics paramount
-to understanding it. Dealing with the nature of human action and the
+Bitcoin è una nuova forma di moneta, per comprenderlo è necessario studiare
+l'ecoonomia.
+Dealing with the nature of human action and the
 interactions of economic agents, economics is probably one of the largest and
 fuzziest pieces of the Bitcoin puzzle.
 
