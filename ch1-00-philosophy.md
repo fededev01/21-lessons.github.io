@@ -36,7 +36,6 @@ assolutamente essenziale pe un sistema privo di un leader. Le ultime due lezioni
 capitolo esplorano il potere della libera espressione e i limiti della nostra conoscenza individuale, 
 riflessa dalla sorprendente profondità della tana del bianconiglio.
 
-I hope that you will find the world of Bitcoin as educational, fascinating and
 Spero che troviate il mondo del Bitcoin educativo, affascinante e divertente come 
 ancora io lo trovo. Vi invito a seguire il Bianconiglio e esplorare la profondità della sua 
 tana. Orsù! mano all'orologio da taschino, tuffatevi e godetevi la caduta. 
