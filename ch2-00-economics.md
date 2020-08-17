@@ -22,35 +22,34 @@ Bitcoin mi ha portato su una pletora di percorsi esplorativi, alcuni dei quali p
 queste serie.
 
 Nelle prime sette lezioni alcune delle domande filosofiche che il Bitcoin tocca sono
-on were discussed. The next seven lessons will take a closer look at money and
 state discusse. Le prossime sette lezioni si occuperanno maggiormente dei soldi e 
 delle questioni economiche.
 
 {% include lesson-list.html chapter="2"%}
 
-Again, I will only be able to scratch the surface. Bitcoin is not only
-ambitious, but also broad and deep in scope, making it impossible to cover all
-relevant topics in a single lesson, essay, article, or book. I  doubt if it is
-even possible at all.
+Di nuovo, sarò in grado solo di graffiare la superficie. Bitcoin non è solo 
+ambizioso, ma anche di portata ampia e profonda, il che rende impossibile coprire tutti
+gli argomenti rilevanti in una sola lezione, in un saggio, in un articolo o in un libro.
+Non credo sia mai possibile affrontarli tutti. 
 
-Bitcoin is a new form of money, which makes learning about economics paramount
-to understanding it. Dealing with the nature of human action and the
-interactions of economic agents, economics is probably one of the largest and
-fuzziest pieces of the Bitcoin puzzle.
+Bitcoin è una nuova forma di moneta, per comprenderlo è necessario studiare
+l'economia. Affrontando l'azione umana e le interazioni degli agenti economici, l'economia 
+è probabilmente uno dei pezzi più grandi e sfocati del puzzle Bitcoin.
 
-Again, these lessons are an exploration of the various things I have learned
-from Bitcoin. They are a personal reflection of my journey down the rabbit hole.
-Having no background in economics, I am definitely out of my comfort zone and
-especially aware that any understanding I might have is incomplete. I will do my
-best to outline what I have learned, even at the risk of making a fool out of
-myself. After all, I am still trying to answer the question: [*“What have you
-learned from Bitcoin?”*][the question]
+Queste lezioni sono un esplorazione delle varie cose che ho imparato dal Bitcoin.
+Sono un riflesso personale del mio viaggio nella tana del coniglio.
+Non avendo alcun tipo di esperienza in economia, sono fuori dalla mia comfort zone
+e consapevole che non potrei mai comprendere tutto fino in fondo. Farò del mio meglio
+per delineare cosa ho imparato, anche a rischio di rendemi ridicolo.
+In fondo, sto ancora cercando di rispondere alla domanda: 
+[*“Cosa hai imparato dal Bitcoin?”*][la domanda]
 
-After seven lessons examined through the lens of philosophy, let’s use the lens
-of economics to look at seven more. Economy class is all I can offer this time.
-Final destination: **sound money**.
+Dopo sette lezioni esaminate sotto la lente della filosofia, nelle prossime sette
+lezioni iniziamo ad usare la lente dell'economia. 
+UNa lezione di economia è il massimo che posso offrire al momento.
+Destinazione finale: **sound money**.
 
-[the question]: https://twitter.com/arjunblj/status/1050073234719293440
+[la domanda]: https://twitter.com/arjunblj/status/1050073234719293440
 
 <!-- Wikipedia -->
 [alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
