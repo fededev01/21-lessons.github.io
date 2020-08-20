@@ -37,7 +37,7 @@ l'economia. Affrontando l'azione umana e le interazioni degli agenti economici, 
 è probabilmente uno dei pezzi più grandi e sfocati del puzzle Bitcoin.
 
 Queste lezioni sono un esplorazione delle varie cose che ho imparato dal Bitcoin.
-Sono un riflesso personale del mio viaggio nella tana del coniglio.
+Sono un riflesso personale del mio viaggio nella tana del bianconiglio.
 Non avendo alcun tipo di esperienza in economia, sono fuori dalla mia comfort zone
 e consapevole che non potrei mai comprendere tutto fino in fondo. Farò del mio meglio
 per delineare cosa ho imparato, anche a rischio di rendemi ridicolo.
@@ -46,7 +46,7 @@ In fondo, sto ancora cercando di rispondere alla domanda:
 
 Dopo sette lezioni esaminate sotto la lente della filosofia, nelle prossime sette
 lezioni iniziamo ad usare la lente dell'economia. 
-UNa lezione di economia è il massimo che posso offrire al momento.
+Una lezione di economia è il massimo che posso offrire al momento.
 Destinazione finale: **sound money**.
 
 [la domanda]: https://twitter.com/arjunblj/status/1050073234719293440
