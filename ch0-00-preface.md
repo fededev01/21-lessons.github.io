@@ -9,7 +9,7 @@ toc: true
 ---
 
 Cadere dentro alla tana del coniglio del Bitcoin è un'esperienza strana. Come molti altri,
-sento di aver imparato di più negli unltimi due anni studiando Bitcoin
+sento di aver imparato di più negli ultimi due anni studiando Bitcoin
 di quanto non abbia imparato nel corso di due decenni di educazione scolastica.
 
 Le presenti lezioni sono un distillato di ciò che ho imparato. Pubblicate inizialmente
