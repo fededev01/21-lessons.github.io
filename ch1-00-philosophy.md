@@ -2,7 +2,7 @@
 layout: lesson
 title: Capitolo I
 subtitle: Filosofia
-quote: "Il topo la guardò in modo piuttosto inquisitorio, e le sembro ammiccare con uno dei suoi piccoli occhi, ma non disse
+quote: "Il topo la guardò in modo piuttosto inquisitorio, e le sembrò ammiccare con uno dei suoi piccoli occhi, ma non disse
 nulla"
 audio: /assets/audio/21lessons/1-00.m4a
 permalink: philosophy

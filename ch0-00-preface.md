@@ -20,20 +20,15 @@ Come il Bitcoin, queste lezioni non sono un qualcosa di statico. Mi riprometto d
 periodicamente, rilasciando versioni aggiornate e materiale addizionale in futuro.
 
 Diversamente dal Bitcoin, le future versioni di questo progetto non sono compatibili a 
-ritroso. Qualche lezione potrebbe essere estesa, altre potrebbero essere revocate o 
-
-replaced. I hope that a future version will be something you can hold in your
+ritroso. Qualche lezione potrebbe essere estesa, altre potrebbero essere revocate o
 rimpiazzate. Spero che una versione futura sia un qualcosa che puoi tenere 
 in mano, ma non voglio promettere niente per il momento.
 
-Bitcoin is an inexhaustible teacher, which is why I do not claim that these
 Bitcoin è un insegnante inestancabile, ragione per la quale non mi sento di dichiarare 
 che queste lezioni siano onni-comprensive o complete. Sono il riflesso del mio 
-viaggio dentro la tana del coniglio. Ci sono molte lezioni da imparare
-
+viaggio dentro la tana del bianconiglio. Ci sono molte lezioni da imparare
 e ogni persona imparerà qualcosa di diverso dall'introduzione al mondo del Bitcoin.
 
-I hope that you will find these lessons useful and that the process of learning
 Spero che troverete queste lezioni utili e che il processo di apprendimento
 attraverso la lettura non sarà così arduo e doloroso come l'apprendimento da zero.
 

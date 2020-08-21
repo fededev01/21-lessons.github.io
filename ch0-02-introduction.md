@@ -9,8 +9,9 @@ toc: true
 ---
 
 Nell'Ottobre del 2018, Arjun Balaji fece l'innocua domanda, [*Cosa hai imparato dal Bitcoin?*][this question] 
-Dopo aver cercato di rispondere a questa domanda con un breve tweet, e aver vergognosamente fallito, ho capito che le cose che ho imparato erano 
-di gran lunga troppo numerose per rispondere rapidamente o addirittura per farlo.
+Dopo aver cercato di rispondere a questa domanda con un breve tweet, e aver vergognosamente fallito, 
+ho capito che le cose che ho imparato erano di gran lunga troppo numerose per rispondere 
+rapidamente o addirittura per farlo.
 
 Le cose che ho imparato sono, ovviamente, riguardanti il Bitcoin - o almeno relative ad 
 esso. Comunque, mentre qualcosa dei meccanismi interni sono spiegati, le 
@@ -25,7 +26,7 @@ diverso.
 
 [Il capitolo 1][chapter1] esplora gli insegnamenti filosofici del Bitcoin. 
 l'interazione tra immutabilità e cambiamento, il concetto di autentica scarsità,
-l'immacolata concezione, il problema dell'identità, la contraddizione della replicazione 
+l'immacolata concezione di Bitcoin, il problema dell'identità, la contraddizione della replicazione 
 e della localizzazione, il potere della libertà di parola e i limiti della conoscenza.
 
 [Il capitolo 2][chapter2] esplora gli insegnamenti economici del Bitcoin. Lezioni 
@@ -41,7 +42,7 @@ e che le metafore possono essere utili per esplorare il futuro del Bitcoin.
 
 Ciascuna lezione contiene varie citazioni e links lungo tutto il testo. Se vuoi 
 esplorare un'idea in maggiore dettaglio, puoi trovare dei collegamenti ai miei lavori collegati
-Nella sezione "Through the Looking-Glass". Se vuoi andare ancora più a fondo, collegamenti 
+nella sezione "Through the Looking-Glass". Se vuoi andare ancora più a fondo, i collegamenti 
 ai materiali più rilevanti sono elencati nella sezione "Down the Rabbit Hole".
 Entrambe possono essere trovate alla fine di ogni lezione.
 
