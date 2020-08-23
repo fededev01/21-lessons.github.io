@@ -24,7 +24,7 @@ ritroso. Qualche lezione potrebbe essere estesa, altre potrebbero essere revocat
 rimpiazzate. Spero che una versione futura sia un qualcosa che puoi tenere 
 in mano, ma non voglio promettere niente per il momento.
 
-Bitcoin è un insegnante inestancabile, ragione per la quale non mi sento di dichiarare 
+Bitcoin è un insegnante instancabile, ragione per la quale non mi sento di dichiarare 
 che queste lezioni siano onni-comprensive o complete. Sono il riflesso del mio 
 viaggio dentro la tana del bianconiglio. Ci sono molte lezioni da imparare
 e ogni persona imparerà qualcosa di diverso dall'introduzione al mondo del Bitcoin.
