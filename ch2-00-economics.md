@@ -18,7 +18,7 @@ non crescono sugli alberi.
 Bitcoin mi ha insegnato sui soldi più di quanto ho mai pensato di avere bisogno di sapere.
 Attraverso di esso, sono stato costretto ad esplorare la storia della moneta, delle banche, varie
 scuole di pensiero sull'economia, e molte altre cose. Il bisogno di capire il
-Bitcoin mi ha portato su una pletora di percorsi esplorativi, alcuni dei quali provo ad esplrare in 
+Bitcoin mi ha portato su una pletora di percorsi esplorativi, alcuni dei quali provo ad esplorare in 
 queste serie.
 
 Nelle prime sette lezioni alcune delle domande filosofiche che il Bitcoin tocca sono
