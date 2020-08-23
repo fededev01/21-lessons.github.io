@@ -38,7 +38,7 @@ riflessa dalla sorprendente profondità della tana del bianconiglio.
 
 Spero che troviate il mondo del Bitcoin educativo, affascinante e divertente come 
 ancora io lo trovo. Vi invito a seguire il Bianconiglio e esplorare la profondità della sua 
-tana. Orsù! mano all'orologio da taschino, tuffatevi e godetevi la caduta. 
+tana. Orsù! Mano all'orologio da taschino, tuffatevi e godetevi la caduta. 
 
 <!-- Wikipedia -->
 [alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
